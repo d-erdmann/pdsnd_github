@@ -9,6 +9,7 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
+The project is about Version Control Git and GitHub.
 
 ### Files used
 Include the files used
